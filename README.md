@@ -21,8 +21,3 @@
 <li>Encoding</li>
 </ul>
 
-**Categories**
-
-![image](https://user-images.githubusercontent.com/59391291/191514359-557f9ed1-f56e-4c31-98c8-3f54329f2ea5.png)
-
-
